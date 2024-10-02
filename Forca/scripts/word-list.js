@@ -12,7 +12,7 @@ const wordList = [
     hint: "Animal domentico"
   },
   {
-    word: "Vinho",
+    word: "vinho",
     hint: "Usado para brindar"
   },
   {
@@ -72,7 +72,7 @@ const wordList = [
     hint: "instrumento"
   },
   {
-    word: "independência",
+    word: "independencia",
     hint: "liberdade e autonomia"
   },
   
