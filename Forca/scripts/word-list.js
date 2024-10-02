@@ -75,5 +75,73 @@ const wordList = [
     word: "independencia",
     hint: "liberdade e autonomia"
   },
+  {
+    word: "jabuticaba",
+    hint: "Fruta"
+  },
+  {
+    word: "manga",
+    hint: "Fruta"
+  },
+  {
+    word: "maracuja",
+    hint: "Fruta"
+  },
+  {
+    word: "melancia",
+    hint: "Fruta"
+  },
+  {
+    word: "jamelao",
+    hint: "fruta"
+  },
+  {
+    word: "bluesky",
+    hint: "Rede social"
+  },
+  {
+    word: "instagram",
+    hint: "Rede sicial"
+  },
+  {
+    word: "facebook",
+    hint: "Rede social"
+  },
+  {
+    word: "x",
+    hint: "Rede social"
+  },
+  {
+    word: "youtube",
+    hint: "Rede social"
+  },
+  {
+    word: "tiktok",
+    hint: "Rede social"
+  },
+  {
+    word: "snapchat",
+    hint: "Rede social"
+  },
+  {
+    word: "threads",
+    hint: "Rede social"
+  },
+  {
+    word: "tinder",
+    hint: "Rede social"
+  },
+  {
+    word: "abacate",
+    hint: "Fruta"
+  },
+  {
+    word: "abacaxi",
+    hint: "Fruta"
+  },
+  {
+    word: "acerola",
+    hint: "Fruta"
+  },
   
 ]
