@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jogo da Forca</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="main.css">
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+</head>
+<body>
+    
+    <div class="game-modal">
+        <div class="content">
+            <img src="images/lost.gif" alt="gif">
+            <h4></h4>
+            <p></p>
+            <button class="play-again">Jogue Novamente</button>
+        </div>
+    </div>
+    <div class="container">
+        <div class="hangman-box">
+            <img src="images/hangman-0.svg" alt="hangman-img">
+            <h1>Jogo da Forca</h1>
+        </div>
+        <div class="game-box">
+            <ul class="word-display"></ul>
+            <h4 class="hint-text">
+                Dica:
+                <b>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae quidem dignissimos fugit fuga ex quo quos nisi minus ipsa doloribus illo natus quisquam, quaerat, dolorem omnis qui. Dicta, ut quia.</b>
+            </h4>
+            <h4 class="guesses-text">
+                incorrect guesses:
+                <b>0 / 6</b>
+            </h4>
+            
+            
+            <div class="keyboard">
+            </div>
+        </div>
+    
+    </div>
+    
+    <script src="scripts/word-list.js" defer></script>
+    <script src="scripts/main.js" defer></script>
+    
+</body>
+</html>
