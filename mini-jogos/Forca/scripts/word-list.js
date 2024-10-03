@@ -72,10 +72,6 @@ const wordList = [
     hint: "instrumento"
   },
   {
-    word: "independencia",
-    hint: "liberdade e autonomia"
-  },
-  {
     word: "jabuticaba",
     hint: "Fruta"
   },
