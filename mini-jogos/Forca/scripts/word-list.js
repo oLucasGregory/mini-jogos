@@ -33,15 +33,15 @@ const wordList = [
   },
   {
     word: "japao",
-    hint: "Pais asiatico"
+    hint: "Pais"
   },
   {
     word: "coreia",
-    hint: "Pais asiatico"
+    hint: "Pais"
   },
   {
     word: "china",
-    hint: "Pais asiatico"
+    hint: "Pais"
   },
   {
     word: "cachorro",

@@ -51,7 +51,7 @@ header{
 }
 .lista-jogos{
        display: grid;
-        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
         gap: 24px;
         margin-top: 24px;
 }
@@ -70,9 +70,13 @@ header{
     color: #E5E1D8;
     margin-top: 16px;
 }
+.jogos a p{
+    color: #b4b1ab;
+    margin-top: 16px;
+}
 .jogos a img{
    transition: transform .2s;
-   width: 90%;
+   width: 100%;
    
 }
 .jogos a img:hover{
@@ -81,7 +85,7 @@ header{
 
 @media(max-width: 1024px) {
     .lista-jogos{
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr;
     }
     
 }
